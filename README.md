@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my github profile](https://github.com/walkervalentinuss)
 
-- 🌱 I’m currently learning **Java Object-Oriented Programming**
+- 🌱 I’m currently learning **Python Programming Language**
 
 - 📫 How to reach me **walkervalentinuss@gmail.com**
 
