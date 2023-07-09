@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on [my github profile](https://github.com/walkervalentinuss)
 
-- 🌱 I’m currently learning **Python Programming Language**
+- 🌱 I’m currently learning **What can be done in my holidays**
 
 - 📫 How to reach me **walkervalentinuss@gmail.com**
 
-- ⚡ Fun fact **I am good at sleeping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
