@@ -1,19 +1,26 @@
-<h1 align="center">Hi 👋, I'm Walker Valentinus Simanjuntak</h1>
-<h3 align="center">A passionate information system student</h3>
+<h1 align="center"><b>Hi , I'm Walker Simanjuntak </b></h1>
+<h2 align="center"><img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="150"></h2>
 
-- 🔭 I’m currently working on [my github profile](https://github.com/walkervalentinuss)
+<a href="#my-programming-tasks"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
 
-- 🌱 I’m currently learning **What can be done in my holidays**
+I am a highly motivated individual with a strong interest in software development, currently pursuing an undergraduate degree in Information Systems. I have a tenacious approach to learning, embracing failure as a natural part of the process towards achieving success. I thrive in collaborative environments and am receptive to guidance from experienced professionals.
 
-- 📫 How to reach me **walkervalentinuss@gmail.com**
+<!--<a href="#my-programming-tasks">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)</a>-->
 
+### 👉 About Me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/walkervlntnss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walkervlntnss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/walker v. simanjuntak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walker v. simanjuntak" height="30" width="40" /></a>
-<a href="https://instagram.com/walkervalentinuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walkervalentinuss" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning: Full Stack Web Development
+- 🎓 Education: Del Institute of Technology
+- 📍 Country: Indonesia
+- ✉️ Email: samsihotang1@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<br>
+<h3 align="center">My Programming Tasks</h3>
+  <div align="center">
+   <a href="https://github.com/samuelsihotang1/Pemrograman-Prosedural"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Prosedural&theme=gotham&hide_border=true&show_description=false" alt="Pemrograman-Prosedural" width="47%"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true&show_description=false" alt="Pemrograman-Berorientasi-Objek" width="47%"></a>
+  </div>
+  <div align="center">
+  <a href="https://github.com/samuelsihotang1/Jaringan-Komputer"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Jaringan-Komputer&theme=gotham&hide_border=true&show_description=false" alt="Jaringan-Komputer" width="47%"></a>
+  </div>
