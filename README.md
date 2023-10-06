@@ -17,12 +17,12 @@ I am an undergraduate student majoring in Information Systems at Institut Teknol
 </div>
 
 ### Let's connect! 😃
-<a href="https://linkedin.com/walker-v-simanjuntak">
+<a href="https://linkedin.com/in/walker-v-simanjuntak-473ab61ab/">
   <img align="left" alt="Walker's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://www.instagram.com/walkervalentinuss/">
   <img align="left" alt="Walker's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.gmail.com/walkervalentinuss/">
+<a href="mailto:walkervalentinuss@gmail.com">
   <img align="left" alt="Walker's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
