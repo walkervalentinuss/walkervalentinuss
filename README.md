@@ -9,13 +9,6 @@ I am an undergraduate student majoring in Information Systems at Institut Teknol
 - 📍 Country: Indonesia
 - ✉️ Email: walkervalentinuss@gmail.com
 
-### 📈 My GitHub Stats
-<div class="myDiv">
-  <a href="https://github.com/walkervalentinuss/walkervalentinuss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walkervalentinuss&hide=issues&show_icons=true&title_color=7393B3&icon_color=7393B3"   />
-  </a>
-</div>
-
 ### Let's connect! 😃
 <a href="https://linkedin.com/in/walker-v-simanjuntak-473ab61ab/">
   <img align="left" alt="Walker's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
