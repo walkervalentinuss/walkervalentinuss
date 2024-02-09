@@ -4,10 +4,10 @@ I am an undergraduate student majoring in Information Systems at Institut Teknol
 
 ### About Walker
 
-- 🌱 I’m currently learning: Data Analytics at Cybertrend Data Academy
-- 🎓 Education: Del Institute of Technology
-- 📍 Country: Indonesia
-- ✉️ Email: walkervalentinuss@gmail.com
+- 🌱 I’m currently learning: Web Development and Data Science
+- 🎓 Education: Undergraduate Informtion System Student at Del Institute of Technology
+- 📍 Country: Indonesia (netizen called us WKWK land)
+- ✉️ Email: walkervalentinuss@gmail.com | iss21012@students.del.ac.id
 
 ### Let's connect! 😃
 <a href="https://linkedin.com/in/walker-v-simanjuntak-473ab61ab/">
