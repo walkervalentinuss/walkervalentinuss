@@ -13,11 +13,7 @@ I am an undergraduate student majoring in Information Systems at Institut Teknol
 - 📍 Country: Indonesia (netizen called us WKWK land)
 - ✉️ Email: walkervalentinuss@gmail.com | iss21012@students.del.ac.id
 
-  <a href="https://github.com/walkervalentinuss/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkervalentinuss&langs_count=10&layout=compact&theme=midnight&hide_border=true&rank_icon=github&show_icons=true" width="340" align=left alt="walkervalentinuss" /> </p> 
-  <br></br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walkervalentinuss&theme=midnight&hide_border=true" alt="walkervalentinuss" /></p>
-  </a>
+
 
 ### Let's connect! 😃
 <a href="https://linkedin.com/in/walker-v-simanjuntak-473ab61ab/">
@@ -29,3 +25,9 @@ I am an undergraduate student majoring in Information Systems at Institut Teknol
 <a href="mailto:walkervalentinuss@gmail.com">
   <img align="left" alt="Walker's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
+
+<br></br>
+
+  <a href="https://github.com/walkervalentinuss/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkervalentinuss&langs_count=10&layout=compact&theme=midnight&hide_border=true&rank_icon=github&show_icons=true" width="340" align=left alt="walkervalentinuss" /> </p> 
+  </a>
