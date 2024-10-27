@@ -8,7 +8,7 @@ I am an undergraduate student majoring in Information Systems at Institut Teknol
 
 ### About Walker
 
-- 🌱 I’m currently learning: Web Development and Data Science
+- 🌱 I’m currently learning: Data Analysis and Data Science
 - 🎓 Education: Undergraduate Informtion System Student at Del Institute of Technology
 - 📍 Country: Indonesia (netizen called us WKWK land)
 - ✉️ Email: walkervalentinuss@gmail.com | iss21012@students.del.ac.id
