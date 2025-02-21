@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Walker Valentinus Simanjunta</h1>
+<h1 align="center">Hi 👋, I'm Walker Valentinus Simanjuntak</h1>
 <h3 align="center">A lifelong learner and walker</h3>
 
 - 🔭 I’m currently working on my Thesis (Indonesian Hate Speech Classification using IndoBERT)
