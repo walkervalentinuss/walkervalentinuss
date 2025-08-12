@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Walker Valentinus Simanjuntak</h1>
 <h3 align="center">A lifelong learner and walker</h3>
 
-- 🔭 I’m currently working on my Thesis (Indonesian Hate Speech Classification using IndoBERT)
-
 - 🌱 I’m currently learning **LLM, Transformers, and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/walkervalentinuss](https://github.com/walkervalentinuss)
 
-- 📫 How to reach me **walkervalentinuss@gmail.com | iss21012@students.del.ac.id**
+- 📫 How to reach me **walkervalentinussimanjuntak@gmail.com | iss21012@students.del.ac.id**
 
 - ⚡ Fun fact **I am confident at futsal and singing ><**
 
